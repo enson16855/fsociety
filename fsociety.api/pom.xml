@@ -8,6 +8,7 @@
 	</parent>
 	<groupId>fsociety.api</groupId>
 	<artifactId>fsociety.api</artifactId>
+	<version>0.0.1</version>
 	<name>fsociety.api</name>
 	<description>fsociety的接口工程</description>
 </project>
